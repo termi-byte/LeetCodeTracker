@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/termi-byte/LeetCodeTracker/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/termi-byte/LeetCodeTracker/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/termi-byte/LeetCodeTracker/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/termi-byte/LeetCodeTracker/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/termi-byte/LeetCodeTracker/tree/master/0048-rotate-image) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/termi-byte/LeetCodeTracker/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
