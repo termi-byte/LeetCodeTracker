@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/termi-byte/LeetCodeTracker/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/termi-byte/LeetCodeTracker/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/termi-byte/LeetCodeTracker/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/termi-byte/LeetCodeTracker/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/termi-byte/LeetCodeTracker/tree/master/0073-set-matrix-zeroes) |
@@ -57,5 +58,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/termi-byte/LeetCodeTracker/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/termi-byte/LeetCodeTracker/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
