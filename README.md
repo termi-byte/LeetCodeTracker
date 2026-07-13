@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/termi-byte/LeetCodeTracker/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/termi-byte/LeetCodeTracker/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/termi-byte/LeetCodeTracker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/termi-byte/LeetCodeTracker/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/termi-byte/LeetCodeTracker/tree/master/0229-majority-element-ii) |
 | [0704-binary-search](https://github.com/termi-byte/LeetCodeTracker/tree/master/0704-binary-search) |
 ## Hash Table
@@ -67,5 +68,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/termi-byte/LeetCodeTracker/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/termi-byte/LeetCodeTracker/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/termi-byte/LeetCodeTracker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/termi-byte/LeetCodeTracker/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/termi-byte/LeetCodeTracker/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
